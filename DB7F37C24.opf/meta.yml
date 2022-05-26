@@ -1,0 +1,22 @@
+id: DB7F37C24
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:09:25+00:00'
+last_modified: '2022-05-26T08:11:32.110757+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    faa1:
+      image_group_id: I1PD95859
+      title: སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ།
+      total_pages: 1856
+      order: 14
+      base_file: faa1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
